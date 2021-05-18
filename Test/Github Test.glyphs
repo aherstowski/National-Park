@@ -1,6 +1,9 @@
 {
 .appVersion = "3058";
 .formatVersion = 3;
+DisplayStrings = (
+R
+);
 date = "2021-05-18 14:19:15 +0000";
 familyName = "New Font";
 fontMaster = (
@@ -1619,9 +1622,51 @@ unicode = 81;
 },
 {
 glyphname = R;
+lastChange = "2021-05-18 15:05:46 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "Design Resources/R.png";
+pos = (42,0);
+scale = (3.0394,3.0394);
+};
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 2;
+strokeHeight = 80;
+strokeWidth = 80;
+};
+closed = 0;
+nodes = (
+(55,0,l),
+(55,675,l),
+(339,675,l),
+(397,675,o),
+(497,654,o),
+(497,530,cs),
+(497,406,o),
+(409,363,o),
+(332,363,cs),
+(58,363,l)
+);
+},
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 2;
+strokeHeight = 80;
+strokeWidth = 80;
+};
+closed = 0;
+nodes = (
+(322,380,l),
+(502,0,l)
+);
+}
+);
 width = 600;
 }
 );
